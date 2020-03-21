@@ -1,0 +1,92 @@
+
+
+========================================
+1.what is function
+========================================
+1- https://www.w3schools.com/js/js_functions.asp
+1.1 https://www.w3schools.com/js/js_function_definition.asp
+1.2 https://www.w3schools.com/js/js_function_parameters.asp
+1.3 https://www.w3schools.com/js/js_function_invocation.asp
+1.4 https://www.w3schools.com/js/js_function_call.asp
+1.5 https://www.w3schools.com/js/js_function_apply.asp
+
+2- https://www.tutorialspoint.com/es6/es6_functions.htm
+
+
+3- https://www.tutorialsteacher.com/javascript/closure-in-javascript
+3.1 https://www.tutorialsteacher.com/javascript/javascript-function
+==========================================
+2.JavaScript Definitions
+==========================================
+#Q/A --> 1
+
+==========================================
+3.Function Invocation
+==========================================
+#Q/A --> 1
+
+==========================================
+4.Function Return
+==========================================
+#Q/A --> 1
+
+==========================================
+5.Why Functions?
+==========================================
+#Q/A --> 1
+
+==========================================
+6.Function Parameters and Arguments
+==========================================
+#Q/A --> 1
+
+
+==========================================
+7.Rest Parameters
+==========================================
+#Q/A --> 1
+
+==========================================
+8.Anonymous Function
+==========================================
+#Q/A --> 1
+
+
+==========================================
+9.Function Constructor
+==========================================
+#Q/A --> 1
+
+==========================================
+10.Recursion and JavaScript Functions
+==========================================
+#Q/A --> 1
+
+
+==========================================
+11.Lambda Functions
+==========================================
+#Q/A --> 1
+
+==========================================
+12.Function Hoisting
+==========================================
+#Q/A --> 1
+
+==========================================
+13.Self-Invoking Functions
+==========================================
+#Q/A --> 1
+
+========================================
+14.Functions are Objects
+========================================
+#Q/A --> 1
+
+
+========================================
+15.Local or Global Scope
+   - JavaScript Nested Functions
+   - JavaScript Closures
+========================================
+#Q/A --> 1
