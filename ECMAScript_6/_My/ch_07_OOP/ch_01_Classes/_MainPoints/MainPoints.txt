@@ -43,7 +43,11 @@
 8.Setters and Getters
 ==========================================
 #q/a --> 1
-
+#resources :
+1- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set
+2- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get
+3- https://www.w3schools.com/js/js_object_accessors.asp
+4- https://stackoverflow.com/questions/28222276/what-are-getters-and-setters-for-in-ecmascript-6-classes
 ==========================================
 9.
 ==========================================
